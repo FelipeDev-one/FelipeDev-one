@@ -64,18 +64,6 @@ Desarrollo de procedimientos almacenados, triggers, packages y funciones para si
 
 ---
 
-## Estadísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipelaradev23&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelaradev23&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## Objetivo actual
 
 Seguir aprendiendo, mejorar mi lógica de desarrollo y construir proyectos cada vez más sólidos y escalables.
